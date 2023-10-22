@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="downloads">10,000 – 50000</string>
+    <string name="downloads_btn">Downloads</string>
+    <string name="task_app">Task App</string>
+    <string name="todo">TODO</string>
+    <string name="game_name">Game Name</string>
+</resources>
